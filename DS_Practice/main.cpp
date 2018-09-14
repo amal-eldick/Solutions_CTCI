@@ -6,15 +6,20 @@
 //  Copyright © 2018 Amal Eldick. All rights reserved.
 //
 
+#include "IsUnique.h"
+#include "Permutation.h"
+#include "URL.h"
+
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main()
 {
-    int array1[10];
-    for(int i = 0; i < 10; i++)
-        array1[i] = rand() % 100;
-    for(int i = 0; i < 10; i++)
-        cout << array1[i] << " ";
+    // IsUnique();
+    // Permutation();
+    URL();
+    
     return 0;
 }
+
