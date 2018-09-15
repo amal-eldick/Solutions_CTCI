@@ -23,12 +23,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2B5D6E9F214C465B00279E5A /* Palindrome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Palindrome.h; sourceTree = "<group>"; };
 		2BAE69012143123700CC7B9D /* DS_Practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DS_Practice; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BAE69042143123700CC7B9D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		2BF31A8B214B765500BCC5FC /* URL.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = URL.h; sourceTree = "<group>"; };
 		2BF31A8C214B765C00BCC5FC /* Permutation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Permutation.h; sourceTree = "<group>"; };
 		2BF31A8D214B765C00BCC5FC /* IsUnique.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsUnique.h; sourceTree = "<group>"; };
-		2BF31A8E214B765C00BCC5FC /* Palindrome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Palindrome.h; sourceTree = "<group>"; };
+		2BF31A8E214B765C00BCC5FC /* Hash.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hash.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,8 +65,9 @@
 				2BAE69042143123700CC7B9D /* main.cpp */,
 				2BF31A8B214B765500BCC5FC /* URL.h */,
 				2BF31A8D214B765C00BCC5FC /* IsUnique.h */,
-				2BF31A8E214B765C00BCC5FC /* Palindrome.h */,
+				2BF31A8E214B765C00BCC5FC /* Hash.h */,
 				2BF31A8C214B765C00BCC5FC /* Permutation.h */,
+				2B5D6E9F214C465B00279E5A /* Palindrome.h */,
 			);
 			path = DS_Practice;
 			sourceTree = "<group>";
